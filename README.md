@@ -1,3 +1,3 @@
 # SVG Cleaner
 
-An SVG cleaner in node
+An SVG cleaner/linter in node
